@@ -1,0 +1,9 @@
+c this is a test graph
+p null 5 7
+e 1 2
+e 2 3
+e 3 4
+e 2 4
+e 1 3
+e 4 5
+e 5 1

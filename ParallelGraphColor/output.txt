@@ -1,0 +1,7 @@
+computing graph k-colorability
+read graph time: 		0.000437
+bcast table time 		0.000862
+compute table time 		0.925153
+find k time 			0.858047
+total time: 			1.784498
+graph is 13-colorable

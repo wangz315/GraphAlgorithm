@@ -1,0 +1,10 @@
+#!/bin/bash
+#$ -cwd
+#$ -o /dev/null
+#$ -e /dev/null
+# Set the number of MPI processes here:
+#$ -pe mpi 8
+# Set the number of OpenMP threads here:
+setenv OMP_NUM_THREADS 4
+# Change the name of the execuatable here:
+mpirun ./gcolor > output.txt
