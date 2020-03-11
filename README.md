@@ -1,4 +1,4 @@
-# AntBroodCluster
+# Ant Brood Cluster
 My graph algorithm Library. Implemented based on C++/MPI/OpenMP. All codes should be able complie and run on Linux system. You may use the makefile in each folder to complie and run. Note that not all codes are the "camera ready" version. Feel free to modify the codes to fit your project.
 
 ## InExclusionGraphColor
